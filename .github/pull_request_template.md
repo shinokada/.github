@@ -16,7 +16,7 @@ Closes # <!-- Issue # here -->
 -->
 
 ## ✅ Checks
-<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
+<!-- Make sure your pr passes the tests and do check the following fields as needed - -->
 - [ ] My pull request adheres to the code style of this project
 - [ ] My code requires changes to the documentation
 - [ ] I have updated the documentation as required
